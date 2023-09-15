@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\bin\Debug\net6.0\Ejercicio30.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\bin\Debug\net6.0\Ejercicio30.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\bin\Debug\net6.0\Ejercicio30.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\bin\Debug\net6.0\Ejercicio30.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\bin\Debug\net6.0\Ejercicio30.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\refint\Ejercicio30.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\Ejercicio30.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema06 - Arrays\Ejercicios\Ejercicio30\Ejercicio30\obj\Debug\net6.0\ref\Ejercicio30.dll

@@ -1,0 +1,15 @@
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\bin\Debug\net6.0\Ejer6.exe
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\bin\Debug\net6.0\Ejer6.deps.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\bin\Debug\net6.0\Ejer6.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\bin\Debug\net6.0\Ejer6.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\bin\Debug\net6.0\Ejer6.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.csproj.AssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\refint\Ejer6.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\Ejer6.genruntimeconfig.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer6\Ejer6\obj\Debug\net6.0\ref\Ejer6.dll

@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\bin\Debug\net6.0\Ejercicio24.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\bin\Debug\net6.0\Ejercicio24.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\bin\Debug\net6.0\Ejercicio24.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\bin\Debug\net6.0\Ejercicio24.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\bin\Debug\net6.0\Ejercicio24.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\refint\Ejercicio24.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\Ejercicio24.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio24\Ejercicio24\obj\Debug\net6.0\ref\Ejercicio24.dll

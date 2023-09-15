@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\bin\Debug\net6.0\Ejer4.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\bin\Debug\net6.0\Ejer4.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\bin\Debug\net6.0\Ejer4.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\bin\Debug\net6.0\Ejer4.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\bin\Debug\net6.0\Ejer4.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\refint\Ejer4.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\Ejer4.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema04 - Operadores y sentencias de selección simple\Ejercicios\Ejer4\Ejer4\obj\Debug\net6.0\ref\Ejer4.dll

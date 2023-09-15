@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\bin\Debug\net6.0\Ejercicio22.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\bin\Debug\net6.0\Ejercicio22.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\bin\Debug\net6.0\Ejercicio22.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\bin\Debug\net6.0\Ejercicio22.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\bin\Debug\net6.0\Ejercicio22.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\refint\Ejercicio22.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\Ejercicio22.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema05 - Sentencias de repetición\Ejercicios\Ejercicio22\Ejercicio22\obj\Debug\net6.0\ref\Ejercicio22.dll

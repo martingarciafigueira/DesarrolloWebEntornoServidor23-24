@@ -1,0 +1,15 @@
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\bin\Debug\net6.0\Ejer5.exe
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\bin\Debug\net6.0\Ejer5.deps.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\bin\Debug\net6.0\Ejer5.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\bin\Debug\net6.0\Ejer5.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\bin\Debug\net6.0\Ejer5.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.csproj.AssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\refint\Ejer5.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\Ejer5.genruntimeconfig.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejer5\Ejer5\obj\Debug\net6.0\ref\Ejer5.dll

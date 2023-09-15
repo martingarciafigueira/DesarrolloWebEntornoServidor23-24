@@ -1,0 +1,55 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">CONSOLA WEB</h1>
+	<p>Aquí programaremos nuestros ejercicios de consola, pero en la web.</p>
+</div>
+
+<p>
+	<!-- INICIO CONSOLA WEB-->
+		<h2>Ejercicio 1: Bucle</h2>
+		Muestro un bucle:
+		<p>
+		@{
+			for (int i = 0; i < 10; i++)
+			{
+				<p>@i</p>
+			}
+		}
+
+		</p>
+
+		<h2>Ejercicio 2: Array strings</h2>
+		<p>
+		Muestro una lista de nombres
+		@{
+			string[] nombres = new string[] { "Martín", "Ramón", "Tacio" };
+				<ul>
+				@foreach (string item in nombres)
+				{
+					<li>@item</li>
+				}
+				</ul>
+		}
+
+		</p>
+
+				<h2>Ejercicio 3: Genero una letra aleatoria</h2>
+		<p>
+		@{
+			Random rnd = new Random();
+			char c = (char)rnd.Next(97, 123);
+					<ul>
+						<li>@c</li>
+					</ul>
+		}
+
+		</p>
+
+		<!-- Ejecutamos un método -->
+		<h2>@ConsolaWeb.Controllers.ControladorPrueba.Metodo1()</h2> 
+
+	<!-- FIN CONSOLA WEB-->
+</p>

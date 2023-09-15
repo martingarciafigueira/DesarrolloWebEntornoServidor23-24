@@ -1,0 +1,15 @@
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\bin\Debug\net6.0\Ejercicio13.exe
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\bin\Debug\net6.0\Ejercicio13.deps.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\bin\Debug\net6.0\Ejercicio13.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\bin\Debug\net6.0\Ejercicio13.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\bin\Debug\net6.0\Ejercicio13.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.csproj.AssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\refint\Ejercicio13.dll
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.pdb
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\Ejercicio13.genruntimeconfig.cache
+G:\Dropbox\Clases\Montecastelo\Ciclo Medio\Online\Aplicaciones Ofimáticas\Temario\Tema03 - Variables\Ejercicios\Ejercicio13\Ejercicio13\obj\Debug\net6.0\ref\Ejercicio13.dll
