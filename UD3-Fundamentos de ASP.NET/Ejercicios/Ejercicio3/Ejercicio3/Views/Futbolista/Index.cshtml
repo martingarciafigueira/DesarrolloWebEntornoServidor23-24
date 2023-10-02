@@ -1,0 +1,43 @@
+﻿@model List<Futbolista>
+@{
+    ViewBag.Title = "Ejemplo";
+}
+
+<div class="container">
+    <h1>Plantilla del Real Madrid</h1>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-6">
+            <p>14 Champions</p>
+            <p>35 Ligas</p>
+        </div>
+        <div class="col-md-6">
+            <img src="https://www.lagalerna.com/wp-content/uploads/2020/08/Escudo-Real-Madrid.jpg" alt="Imagen de ejemplo" class="img-responsive" width="500" height="300" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Apellido</th>
+                        <th>Edad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var futbolista in Model)
+                    {
+                        <tr>
+                            <td>@futbolista.Nombre</td>
+                            <td>@futbolista.Apellido</td>
+                            <td>@futbolista.Edad años</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
