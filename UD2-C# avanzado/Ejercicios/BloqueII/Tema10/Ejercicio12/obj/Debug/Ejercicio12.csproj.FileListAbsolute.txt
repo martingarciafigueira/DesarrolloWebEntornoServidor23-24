@@ -1,0 +1,9 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\bin\Debug\Ejercicio12.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\bin\Debug\Ejercicio12.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema10 - Herencia Polimorfismo Interfaces\Ejercicios\Tema10\Ejercicio12\obj\Debug\Ejercicio12.pdb

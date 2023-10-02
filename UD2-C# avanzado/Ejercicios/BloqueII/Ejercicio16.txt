@@ -1,0 +1,472 @@
+
+
+— Contacto
+	
+/**
+ * Representa a un contacto
+ * @author Discoduroderoer
+ */
+public class Contacto {
+     
+    private String nombre;
+    private int telefono;
+ 
+    public Contacto(String nombre, int telefono) {
+        this.nombre = nombre;
+        this.telefono = telefono;
+    }
+     
+    public Contacto(String nombre) {
+        this.nombre = nombre;
+        this.telefono = 0;
+    }
+ 
+    public String getNombre() {
+        return nombre;
+    }
+ 
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+ 
+    public int getTelefono() {
+        return telefono;
+    }
+ 
+    public void setTelefono(int telefono) {
+        this.telefono = telefono;
+    }
+ 
+    public boolean equals(Contacto c){
+         
+        if(this.nombre.trim().equalsIgnoreCase(c.getNombre().trim())){
+            return true;
+        }
+         
+        return false;
+         
+    }
+     
+    @Override
+    public String toString() {
+        return "nombre=" + nombre + ", telefono=" + telefono;
+    }
+     
+     
+}
+
+— Agenda
+	
+/**
+ * Lleva la gestion de una agenda
+ * @author Discoduroderoer
+ */
+public class Agenda {
+ 
+    //Atributos
+    private Contacto[] contactos;
+ 
+    //Constructores
+    public Agenda() {
+        this.contactos = new Contacto[10]; //por defecto
+    }
+ 
+    public Agenda(int tamanio) {
+        this.contactos = new Contacto[tamanio]; //tamaño que nosotros queramos
+    }
+ 
+    //Metodos
+    /**
+     * Añade un contacto a la agenda
+     *
+     * @param c
+     */
+    public void aniadirContacto(Contacto c) {
+ 
+        if (existeContacto(c)) { //Indico si existe el contacto
+            System.out.println("El contacto con ese nombre ya existe");
+        } else if (agendaLlena()) { //Indico si la agenda esta o no llena
+            System.out.println("La agenda esta llena, no se pueden meter mas contactos");
+        } else {
+ 
+            boolean encontrado = false;
+            for (int i = 0; i < contactos.length && !encontrado; i++) {
+                if (contactos[i] == null) { //controlo los nulos
+                    contactos[i] = c; //Inserto el contacto 
+                    encontrado = true; //Indico que lo he encontrado
+                }
+            }
+ 
+            if (encontrado) {
+                System.out.println("Se ha añadido");
+            } else {
+                System.out.println("No se ha podido añadir");
+            }
+        }
+ 
+    }
+ 
+    /**
+     * Indica si existe un contacto
+     *
+     * @param c
+     * @return
+     */
+    public boolean existeContacto(Contacto c) {
+ 
+        for (int i = 0; i < contactos.length; i++) {
+            //Controlo nulos e indico si el contacto es el mismo
+            if (contactos[i] != null && c.equals(contactos[i])) {
+                return true;
+            }
+        }
+        return false;
+ 
+    }
+ 
+    /**
+     * Lista los contactos de la agenda
+     */
+    public void listarContactos() {
+ 
+        if (huecosLibre() == contactos.length) {
+            System.out.println("No hay contactos que mostrar");
+        } else {
+            for (int i = 0; i < contactos.length; i++) {
+                if (contactos[i] != null) { //Controlo nulos
+                    System.out.println(contactos[i]);
+                }
+            }
+        }
+ 
+    }
+ 
+    /**
+     * Busca un contacto por su nombre
+     *
+     * @param nombre
+     */
+    public void buscarPorNombre(String nombre) {
+ 
+        boolean encontrado = false;
+        for (int i = 0; i < contactos.length && !encontrado; i++) {
+            //Controlo nulos y cxompruebo que es el contacto buscado (forma mas engorrosa)
+            if (contactos[i] != null && contactos[i].getNombre().trim().equalsIgnoreCase(nombre.trim())) {
+                System.out.println("Su telefono es " + contactos[i].getTelefono()); //muestro el telefono
+                encontrado = true; //Indico que lo he encontrado
+            }
+        }
+ 
+        if (!encontrado) {
+            System.out.println("No se ha encontrado el contacto");
+        }
+ 
+    }
+ 
+    /**
+     * Indica si la agenda esta llena o no
+     *
+     * @return
+     */
+    public boolean agendaLlena() {
+ 
+        for (int i = 0; i < contactos.length; i++) {
+            if (contactos[i] == null) { //Controlo nulos
+                return false; //indico que no esta llena
+            }
+        }
+ 
+        return true; //esta llena
+ 
+    }
+ 
+    /**
+     * Elimina el contacto de la agenda
+     *
+     * @param c
+     */
+    public void eliminarContacto(Contacto c) {
+ 
+        boolean encontrado = false;
+        for (int i = 0; i < contactos.length && !encontrado; i++) {
+            if (contactos[i] != null && contactos[i].equals(c)) {
+                contactos[i] = null; //Controlo nulos
+                encontrado = true; //Indico que lo he encontrado
+            }
+        }
+ 
+        if (encontrado) {
+            System.out.println("Se ha eliminado el contacto");
+        } else {
+            System.out.println("No se ha eliminado el contacto");
+ 
+        }
+ 
+    }
+ 
+    /**
+     * Indica cuantos contactos más podemos meter
+     *
+     * @return
+     */
+    public int huecosLibre() {
+ 
+        int contadorLibres = 0;
+        for (int i = 0; i < contactos.length; i++) {
+            if (contactos[i] == null) { //Controlo nulos
+                contadorLibres++; //Acumulo
+            }
+        }
+ 
+        return contadorLibres;
+ 
+    }
+ 
+}
+
+— Main
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+	
+import java.util.InputMismatchException;
+import java.util.Scanner;
+ 
+public class Ejercicio_POO_DDR_11 {
+ 
+    public static void main(String[] args) {
+ 
+        Scanner sn = new Scanner(System.in);
+        sn.useDelimiter("\n");
+        boolean salir = false;
+        int opcion; //Guardaremos la opcion del usuario
+ 
+        Agenda agendaTelefonica = new Agenda(3);
+        String nombre;
+        int telefono;
+ 
+        Contacto c;
+ 
+        while (!salir) {
+ 
+            System.out.println("1. Añadir contacto");
+            System.out.println("2. Listar contactos");
+            System.out.println("3. Buscar contacto");
+            System.out.println("4. Existe contacto");
+            System.out.println("5. Eliminar contacto");
+            System.out.println("6. Contactos disponibles");
+            System.out.println("7. Agenda llena");
+            System.out.println("8. Salir");
+            try {
+                System.out.println("Escribe una de las opciones");
+                opcion = sn.nextInt();
+ 
+                switch (opcion) {
+                    case 1:
+ 
+                        //Pido valores
+                        System.out.println("Escribe un nombre");
+                        nombre = sn.next();
+ 
+                        System.out.println("Escribe un telefono");
+                        telefono = sn.nextInt();
+ 
+                        //Creo el contacto
+                        c = new Contacto(nombre, telefono);
+ 
+                        agendaTelefonica.aniadirContacto(c);
+ 
+                        break;
+                    case 2:
+ 
+                        agendaTelefonica.listarContactos();
+ 
+                        break;
+                    case 3:
+ 
+                        //pido el nombre
+                        System.out.println("Escribe un nombre");
+                        nombre = sn.next();
+ 
+                        agendaTelefonica.buscarPorNombre(nombre);
+ 
+                        break;
+                    case 4:
+ 
+                        //pido el nombre
+                        System.out.println("Escribe un nombre");
+                        nombre = sn.next();
+ 
+                        //Creo el contacto auxiliar
+                        c = new Contacto(nombre, 0);
+ 
+                        if (agendaTelefonica.existeContacto(c)) {
+                            System.out.println("Existe contacto");
+                        } else {
+                            System.out.println("No existe contacto");
+                        }
+ 
+                        break;
+                    case 5:
+ 
+                        //pido el nombre
+                        System.out.println("Escribe un nombre");
+                        nombre = sn.next();
+ 
+                        //Creo el contacto auxiliar
+                        c = new Contacto(nombre, 0);
+ 
+                        agendaTelefonica.eliminarContacto(c);
+ 
+                        break;
+                    case 6:
+ 
+                        System.out.println("Hay " + agendaTelefonica.huecosLibre() + " contactos libre");
+ 
+                        break;
+                    case 7:
+ 
+                        //como devuelve un booleano, lo meto en un if
+                        if (agendaTelefonica.agendaLlena()) {
+                            System.out.println("La agenda esta llena");
+                        } else {
+                            System.out.println("Aun puedes meter contactoss");
+                        }
+ 
+                        break;
+                    case 8:
+                        salir = true;
+                        break;
+                    default:
+                        System.out.println("Solo números entre 1 y 8");
+                }
+ 
+            } catch (InputMismatchException e) {
+                System.out.println("Debes insertar un número");
+                sn.next();
+            }
+ 
+        }
+ 
+    }
+ 
+}

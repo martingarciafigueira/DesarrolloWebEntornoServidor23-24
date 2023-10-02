@@ -1,0 +1,76 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio7
+{
+    class Pelicula
+    {
+        /*Atributos*/
+        private String titulo;
+        private int duracion;
+        private int edadMinima;
+        private String director;
+
+        /*Constructor*/
+        public Pelicula(String titulo, int duracion, int edadMinima, String director)
+        {
+            this.titulo = titulo;
+            this.duracion = duracion;
+            this.edadMinima = edadMinima;
+            this.director = director;
+        }
+
+        /*Metodos*/
+        public String getTitulo()
+        {
+            return titulo;
+        }
+
+        public void setTitulo(String titulo)
+        {
+            this.titulo = titulo;
+        }
+
+        public int getDuracion()
+        {
+            return duracion;
+        }
+
+        public void setDuracion(int duracion)
+        {
+            this.duracion = duracion;
+        }
+
+        public int getEdadMinima()
+        {
+            return edadMinima;
+        }
+
+        public void setEdadMinima(int edadMinima)
+        {
+            this.edadMinima = edadMinima;
+        }
+
+        public String getDirector()
+        {
+            return director;
+        }
+
+        public void setDirector(String director)
+        {
+            this.director = director;
+        }
+        public String toString()
+        {
+            return "'" + titulo + "' del director " + director + ", con una duracion de " + duracion + " minutos y la edad minima es de " + edadMinima + " años";
+        }
+
+        public override String ToString()
+        {
+            return this.titulo;
+        }
+    }
+}

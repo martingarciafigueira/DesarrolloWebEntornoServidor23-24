@@ -1,0 +1,10 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\bin\Debug\Ejercicio15.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\bin\Debug\Ejercicio15.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio15\obj\Debug\Ejercicio15.pdb

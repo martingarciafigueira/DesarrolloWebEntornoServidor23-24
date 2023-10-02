@@ -1,0 +1,12 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.deps.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.runtimeconfig.dev.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\bin\Debug\netcoreapp3.1\Ejercicio32.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema5\Ejercicio32\obj\Debug\netcoreapp3.1\Ejercicio32.genruntimeconfig.cache

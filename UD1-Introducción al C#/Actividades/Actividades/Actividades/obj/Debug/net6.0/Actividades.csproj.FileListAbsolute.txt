@@ -1,0 +1,30 @@
+C:\Users\MARTIN\Desktop\Actividades\Actividades\bin\Debug\net6.0\Actividades.exe
+C:\Users\MARTIN\Desktop\Actividades\Actividades\bin\Debug\net6.0\Actividades.deps.json
+C:\Users\MARTIN\Desktop\Actividades\Actividades\bin\Debug\net6.0\Actividades.runtimeconfig.json
+C:\Users\MARTIN\Desktop\Actividades\Actividades\bin\Debug\net6.0\Actividades.dll
+C:\Users\MARTIN\Desktop\Actividades\Actividades\bin\Debug\net6.0\Actividades.pdb
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.AssemblyInfo.cs
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.dll
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\refint\Actividades.dll
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.pdb
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\Actividades.genruntimeconfig.cache
+C:\Users\MARTIN\Desktop\Actividades\Actividades\obj\Debug\net6.0\ref\Actividades.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\bin\Debug\net6.0\Actividades.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\bin\Debug\net6.0\Actividades.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\bin\Debug\net6.0\Actividades.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\bin\Debug\net6.0\Actividades.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\bin\Debug\net6.0\Actividades.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\refint\Actividades.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\Actividades.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\Desarrollo web en entorno servidor\Temario\C#\Tema01-Introducción al C#\Actividades\Actividades\Actividades\obj\Debug\net6.0\ref\Actividades.dll

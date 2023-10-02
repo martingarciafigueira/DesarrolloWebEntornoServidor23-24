@@ -1,0 +1,80 @@
+﻿@using ConsolaWeb.Models.Actividad1;
+@using ConsolaWeb.Models.Actividad2;
+@using ConsolaWeb.Models.Actividad12;
+
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">CONSOLA WEB</h1>
+	<p>Aquí programaremos nuestros ejercicios de consola, pero en la web.</p>
+</div>
+
+<p>
+	<!-- INICIO CONSOLA WEB-->
+		<h1>Actividad 1</h1>
+		<h2>Creamos los DVDs</h2>
+		<p>
+		@{
+			DVD dvd1 = new DVD("Lo que el viento se llevó",18.5f,360);
+			string info = dvd1.ToString();
+		}
+		<h4>@info</h4>
+		</p>
+		<p>
+		@{
+			DVD dvd2 = new DVD("La comunidad del anillo",25f,150);
+			string info2 = dvd2.ToString();
+		}
+		<p>
+			@Html.Raw(dvd2.generarParrafoConInfo())
+		</p>
+		
+		<h2>Creamos los libros</h2>
+		<p>
+		@{
+			Libro libro1 = new Libro("El nombre del viento",18.5f,"Patrick Rothfuss");
+			<h4>@libro1.ToString()</h4>
+		}
+		</p>
+		<p>
+		@{
+			Libro libro2 = new Libro("Canción de Hielo y Fuego",40.0f,"George RR Martin");
+			<h4>@libro2.ToString()</h4>
+		}
+		<p>
+			@Html.Raw(libro2.generarParrafoConInfo())
+		</p>
+	</p>	
+
+	<h1>Actividad 2</h1>
+	<h2>Creamos la cuenta ahorro</h2>
+	<p>
+		@{
+			Cuenta cuenta1 = new CuentaAhorro("Cuenta cole2", "IBAN 0054 6784", 1000, 3, 10);
+			CuentaAhorro cuentaA = new CuentaAhorro("Cuenta cole", "IBAN 0054 6784", 1000, 3, 10);
+		}
+		<h5>@cuenta1.CuantoVoyAGanarEnXAnhos(10)</h5>
+	</p>
+
+	<h1>Actividad 10</h1>
+	<h2>Creamos un libro como articulo</h2>
+	<p>
+		@{
+			Articulo arti = new Libro("Fray Federico y su borrico", 20,"Góngora");
+		}
+	</p>
+
+	<h1>Actividad 12</h1>
+	<table border="1">
+		@{
+			Publicacion publi1 = new Libro2("Harry Potter", 50, "JK Rowling");
+			Publicacion publi2 = new DVD2("La vida secreta de Walter Mitty", 50, 110);
+
+			@Html.Raw(publi1.mostrarTablaInfoHTML());
+			@Html.Raw(publi2.mostrarTablaInfoHTML());
+		}
+	</table>
+	<!-- FIN CONSOLA WEB-->
+</p>

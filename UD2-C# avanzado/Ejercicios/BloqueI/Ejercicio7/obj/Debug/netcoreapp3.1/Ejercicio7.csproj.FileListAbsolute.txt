@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.deps.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.runtimeconfig.dev.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\bin\Debug\netcoreapp3.1\Ejercicio7.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema06 - POO\Ejercicios\Tema6\Ejercicio7\obj\Debug\netcoreapp3.1\Ejercicio7.genruntimeconfig.cache
