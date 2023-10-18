@@ -1,0 +1,27 @@
+﻿
+
+    @model IEnumerable<Ejemplo.Models.Post>
+
+    @{
+        ViewData["Title"] = "Archive";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h1>@ViewBag.Title</h1>
+
+    @{
+        var firstPost = Model.FirstOrDefault();
+        if (firstPost != null)
+        {
+            <h3>@firstPost.Fecha.ToString("MMMM yyyy"):</h3>
+            <ul>
+            @foreach (var post in Model)
+            {
+                <li>
+                    <h3>@post.Titulo</h3>
+                    <p>Posteado por @post.Autor en @post.Fecha.ToLongDateString()</p>
+                </li>
+            }
+            </ul>
+        }
+    }

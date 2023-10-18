@@ -1,0 +1,17 @@
+﻿
+@model EjemploVideos.Models.Post
+
+@{
+	ViewBag.Title = "Vista de un post";
+}
+
+<h1>@Model.Title</h1>
+
+<p>
+	@Model.Text
+</p>
+<p>
+	El autor ha sido @Model.Author y la fecha fue @Model.Date.ToShortDateString()
+</p>
+
+

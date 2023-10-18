@@ -1,0 +1,22 @@
+﻿
+@model IEnumerable<ProyectoPokemon.Models.Pokemon>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var pokemon in Model)
+    {
+        <li>
+            <h3>Numero pokedex: @pokemon.PokemonId</h3>
+            <div>
+            Nombre: @pokemon.nombre Peso: @pokemon.peso Altura: @pokemon.altura
+            </div>
+        </li>
+    }
+</ul>
+

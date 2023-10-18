@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ejercicio3
+build_property.RootNamespace = Ejercicio3
+build_property.ProjectDir = G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema04-Modelo-Vista-Controlador (MVC)\Ejercicios\Soluciones\Ejercicio4\Ejercicio1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema04-Modelo-Vista-Controlador (MVC)\Ejercicios\Soluciones\Ejercicio4\Ejercicio1
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/Producto/ListaProductos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cTGlzdGFQcm9kdWN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Temario/C\#/Tema04-Modelo-Vista-Controlador (MVC)/Ejercicios/Soluciones/Ejercicio4/Ejercicio1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qg7i8t3djt

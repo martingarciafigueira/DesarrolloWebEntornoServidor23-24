@@ -1,0 +1,16 @@
+﻿@model Ejercicio1.Models.Producto
+
+<h1>Edición de producto</h1>
+
+@using(Html.BeginForm("GuardarProducto","Producto",FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="nombre">Nombre</label>
+        <input type="text" class="form-control" name="nombre" id="nombre" value="@Model.nombre">
+        <label for="precio">Precio</label>
+        <input type="text" class="form-control" name="precio" id="precio" value="@Model.precio">
+        <input type="hidden" name="codigo" id="codigo" value="@Model.codigo">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Modificar</button>
+}

@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Ejercicio1.Models.Producto>
+
+@{
+    ViewData["Title"] = "Consulta de producto";
+}
+
+<h1>Consulta de producto</h1>
+
+@using(Html.BeginForm("VerProducto","Producto",FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="codigo">Codigo</label>
+        <input type="text" class="form-control" name="codigo" id="codigo">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Consultar</button>
+}
