@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Ejemplo.Models.Post>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<ul>
+    @foreach (var post in Model)
+    {
+        <li>
+            <h3>@post.Titulo</h3>
+            <div>
+            Posteado por @post.Autor on @post.Fecha.ToLongDateString()
+            </div>
+        </li>
+    }
+</ul>
+

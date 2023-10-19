@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Ejercicio1.Models.Producto>
+
+@{
+    ViewData["Title"] = "Lista de productos";
+}
+
+<h1>Lista de productos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.precio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.ActionLink("Editar",
+                    "EditarProducto",
+                    "Producto",
+                    new { codigo = item.codigo },
+                    null
+                )
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

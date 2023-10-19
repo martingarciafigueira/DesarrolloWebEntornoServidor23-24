@@ -1,0 +1,19 @@
+﻿	
+	@model Ejemplo.Models.Post
+
+	@{
+	ViewBag.Title = "ViewPost";
+	}
+
+	<h2>@Model.Titulo</h2>
+	<div class="post-body"> @Model.Texto
+	</div>
+	<p>
+	Posteado por @Model.Autor
+	en @Model.Fecha.ToLongDateString()
+	</p>
+
+
+
+
+
