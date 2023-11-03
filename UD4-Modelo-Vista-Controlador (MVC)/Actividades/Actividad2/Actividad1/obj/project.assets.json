@@ -10914,11 +10914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\Actividad2.csproj",
+      "projectUniqueName": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor23-24\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\Actividad2.csproj",
       "projectName": "Actividad2",
-      "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\Actividad2.csproj",
+      "projectPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor23-24\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\Actividad2.csproj",
       "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\obj\\",
+      "outputPath": "C:\\Repositorios GitHub\\DesarrolloWebEntornoServidor23-24\\UD4-Modelo-Vista-Controlador (MVC)\\Actividades\\Actividad2\\Actividad1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
