@@ -1,0 +1,44 @@
+﻿
+        @model IEnumerable<Ejercicio1.Models.Fabricante>
+
+        @{
+            ViewData["Title"] = "Index";
+        }
+
+        <h1>Index</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.codigo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.nombre)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.codigo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.nombre)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Ver detalles", "GetById", new { codigo=item.codigo  })
+                        @Html.ActionLink("Actualizar", "Update", new { codigo=item.codigo })
+                        @Html.ActionLink("Eliminar", "Delete", new { codigo=item.codigo  })
+                    </td>
+                </tr>
+        }
+            </tbody>
+        </table>
+
+

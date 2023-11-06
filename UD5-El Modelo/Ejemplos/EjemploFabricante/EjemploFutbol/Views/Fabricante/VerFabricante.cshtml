@@ -1,0 +1,17 @@
+
+
+
+    @model Ejercicio1.Models.Fabricante
+
+    <h1>Detalle del fabricante</h1>
+
+    <dl class="row">
+        <dt class="col-sm-2">Codigo</dt>
+        <dt class="col-sm-10">@Model.codigo</dt>
+
+        <dt class="col-sm-2">Nombre</dt>
+        <dt class="col-sm-10">@Model.nombre</dt>
+    </dl>
+    <p>
+        <a asp-action="Index" class="btn btn-secondary">Regresar a la lista de fabricantes</a>
+    </p>

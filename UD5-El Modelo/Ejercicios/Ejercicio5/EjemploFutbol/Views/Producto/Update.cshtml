@@ -1,0 +1,20 @@
+@model Ejercicio1.Models.Producto
+
+<h1>Editar producto</h1>
+<form asp-action="Update" method="post">
+    <input type="hidden" asp-for="@Model.codigo" />
+    <div class="form-group">
+        <label asp-for="nombre" class="control-label"></label>
+        <input asp-for="nombre" class="form-control" />
+        <span asp-validation-for="nombre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="precio" class="control-label"></label>
+        <input asp-for="precio" class="form-control" />
+        <span asp-validation-for="precio" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

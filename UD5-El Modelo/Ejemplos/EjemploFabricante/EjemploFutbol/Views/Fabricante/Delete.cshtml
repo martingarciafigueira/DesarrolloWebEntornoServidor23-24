@@ -1,0 +1,18 @@
+
+
+
+        @model Ejercicio1.Models.Fabricante
+
+        <h1>Eliminar fabricante</h1>
+        <h3>¿Estás seguro que deseas eliminar el siguiente fabricante?</h3>
+        <dl class="row">
+            <dt class="col-sm-2">Nombre</dt>
+            <dt class="col-sm-10">@Model.nombre</dt>
+        </dl>
+        <form asp-action="Delete" method="post">
+            <input asp-for="codigo" type="hidden" />
+            <div class="form-group">
+                <button type="submit" class="btn btn-danger">Eliminar</button>
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>

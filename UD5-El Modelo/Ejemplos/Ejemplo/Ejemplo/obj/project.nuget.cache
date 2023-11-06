@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2QGNI0fCT8zrCTji+W9XwYUkqIFjxv3MznyCGCM2nV+EGVtHdyzMWAU2I6NOpwuhiq4BvoNOeWFMTTbbkbl7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MESACOCINA\\Desktop\\Ejemplo\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
