@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Tarea1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tarea1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\10Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\10Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\10Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\10Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\10Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\10Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\10Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\10Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\1Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\1Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\1Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\1Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\1Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\1Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\1Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\1Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\2Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\2Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\2Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\2Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\2Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\2Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\2Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\2Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\3Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\3Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\3Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\3Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\3Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\3Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\3Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\3Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\4Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\4Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\4Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\4Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\4Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\4Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\4Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\4Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\5Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\5Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\5Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\5Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\5Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\5Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\5Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\5Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\6Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\6Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\6Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\6Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\6Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\6Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\6Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\6Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\7Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\7Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\7Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\7Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\7Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\7Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\7Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\7Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\8Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\8Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\8Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\8Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\8Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\8Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\8Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\8Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\9Bastos.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\9Bastos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\9Copas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\9Copas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\9Espadas.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\9Espadas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\Cartas\\9Oro.jpg",
+      "PackagePath": "staticwebassets\\Cartas\\9Oro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Tareas\\Curso 23-24\\Soluciones\\Tarea1\\EjemploWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Tarea1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Tarea1.props",
+      "PackagePath": "build\\Tarea1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Tarea1.props",
+      "PackagePath": "buildMultiTargeting\\Tarea1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Tarea1.props",
+      "PackagePath": "buildTransitive\\Tarea1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

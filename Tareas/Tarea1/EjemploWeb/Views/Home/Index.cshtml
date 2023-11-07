@@ -1,0 +1,342 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tarea 1</h1>
+    <p>Vamos con ello Martín, comencemos.</p>
+</div>
+
+<p>
+    <!-- INICIO CONSOLA WEB-->
+    <h2>Ejercicio 1: Bucle</h2>
+    Muestro un bucle:
+<p>
+        @{
+            for (int i = 0; i < 10; i++)
+            {
+        <p>@i</p>
+            }
+        }
+
+        </p>
+
+<h2>Ejercicio 2: Array strings</h2>
+<p>
+    Muestro una lista de nombres
+        @{
+            string[] nombres = new string[] { "Martín", "Ramón", "Tacio" };
+        <ul>
+                @foreach (string item in nombres)
+                {
+                <li>@item</li>
+                }
+        </ul>
+        }
+
+</p>
+
+
+<h2>Ejercicio 1 (Real): Notas de un alumno aleatorias</h2>
+<p>
+
+        @{
+            //Generamos una variable que será nuestro random
+            Random rnd = new Random();
+            //Asignamos un número aleatorio de notas que tendrá el alumno, entre 0 y 10.
+            int[] notasObtenidas = new int[rnd.Next(0, 10)];
+
+            //Creamos las variable sumaNotas, que nos servirá para sumar todas las notas del alumno
+            double sumaNotas = 0.0;
+        }
+    <!-- Informamos del número total de notas que tiene el alumno-->
+    <table>
+        <tbody>
+            <tr>
+                <td>Total de notas:</td>
+                <td style="text-align:center;">@notasObtenidas.Length</td>
+            </tr>
+            <!-- Inicializamos un bucle, no sin antes comprobar que la longitud de notasObtenidas sea al menos de dos.-->
+                @if (notasObtenidas.Length != 1 && notasObtenidas.Length != 0)
+                {
+                    @for (var i = 0; i < notasObtenidas.Length; i++)
+                    {
+                        //Por cada hueco de la matriz que vayamos recorriendo, asignamos un número aleatorio comprendido entre 0 y 10
+                        notasObtenidas[i] = rnd.Next(0, 10);
+                        //Hago este paso intermedio por dos motivos. 1, me da mucha rabia que empiece por "nota 0".
+                        //2, me da más rabia aún que no se pueda modificar el valor de forma temporal para que se visualice. Por eso creo la variable intermedia.
+                        int p = i + 1;
+                        //A cada nota que se genere la mostramos por pantalla
+                    <tr>
+                        <td>Nota @p:</td>
+                        <td style="text-align: center;">@notasObtenidas[i]</td>
+                    </tr>
+                        //Además de ir sumando todas las notas en la variable double
+                        sumaNotas += notasObtenidas[i];
+                    }
+
+                <!-- Informamos de la nota más alta, más baja y la media de todas las notas-->
+                <tr>
+                    <td>Nota más alta:
+                    <td style="text-align:center;">@notasObtenidas.Max()</td>
+                </tr>
+                <tr>
+                    <td>Nota más baja:</td>
+                    <td style="text-align:center;">@notasObtenidas.Min()</td>
+                </tr>
+                <tr>
+                    <td>Nota media:</td>
+                    <td style="text-align:center;">@Math.Round(sumaNotas/notasObtenidas.Length, 2)</td>
+                </tr>
+                }
+                else
+                {
+                <tr>
+                    <!-- En caso de que la longitud sea de 0 o 1, informamos que no es posible hacer las operaciones-->
+                    <td>No se pueden hacer medias ni nada parecido habiendo solamente un elemento en el array (0 o 1).</td>
+                </tr>
+                }
+        </tbody>
+    </table>
+
+</p>
+
+<h2>Ejercicio 2 (Real): Strings aleatorios</h2>
+<p>
+
+        @{
+            //No hará falta generar una nueva variable para randomizar, tenemos la del ejercicio 1
+            //Asignamos un número de 5 palabras aleatorias que tendrá el array.
+            String[] palabrasAleatorias = new String[5];
+
+        }
+
+        @for (var i = 0; i < palabrasAleatorias.Length; i++)
+        {
+            //Vamos a generar un número aleatorio entre 1 y 20, que será el número de letras que contenga la palabra
+            int numeroLetras = rnd.Next(1, 20);
+            //Con esto, inicializamos un bucle para poder convertir números que generaremos en letras que concatenaremos
+            //Asignando siempre la variable k en 0
+            int k = 0;
+            while (k < numeroLetras)
+            {
+                char c = (char)rnd.Next(97, 123);
+                palabrasAleatorias[i] = palabrasAleatorias[i] + c;
+                //Aumentamos en 1 la variable 'k' cada vez que vayamos a salir de la iteración
+                k++;
+            }
+        }
+
+        @{
+            String[] nuevoArrayRevertido = new String[5];
+            Array.Copy(palabrasAleatorias, nuevoArrayRevertido, 5);
+            Array.Reverse(nuevoArrayRevertido);
+        }
+    <ul>
+            @foreach (var item in nuevoArrayRevertido)
+            {
+            <li>@item</li>
+            }
+    </ul>
+</p>
+
+<h2>Ejercicio 3: Números aleatorios de menor a mayor</h2>
+<p>
+
+    <!--
+        En este caso vamos a poner que la matriz está comprendida entre 2 y 10 números, para que siempre haya al menos unas posibilidad de ordenar
+        De menor a mayor, y no tengamos que hacer ciertas validaciones.
+    -->
+        @{
+            //Inicialización de una matriz con un número aleatorio de intancias
+            int[] matrizAleatoria = new int[rnd.Next(2, 10)];
+
+            //Una vez tenemos el tamaño de la matriz, procedemos a recorrer todas sus instancias con un bucle
+            for (var i = 0; i < matrizAleatoria.Length; i++)
+            {
+                //Vamos a hacer que el número aleatorio sea comprendido entre 0 y 100
+                matrizAleatoria[i] = rnd.Next(0, 100);
+            }
+
+            //Una vez asignados todos los números, ordenamos de menor a mayor
+            Array.Sort(matrizAleatoria);
+
+            //Y una vez están todos los números, recorremos con un foreach la matriz y la printamos por pantalla
+        }
+    <table>
+        <tbody>
+            <tr>
+                    @foreach (var item in matrizAleatoria)
+                    {
+                    <td style="border: 2px solid black; padding: 5px">@item</td>
+                    }
+            </tr>
+        </tbody>
+    </table>
+</p>
+<h2>Ejercicio 4: Baraja de cartas</h2>
+<!--Apartado a.-->
+    @{
+        //Creamos el método que traerá toda la baraja de cartas
+        void traerBaraja()
+        {
+            //Apoyándonos de bucles, comenzamos a recorrerlos para pasar por toda las cartas de la baraja
+            //Que son 4 palos y 10 cartas por palo
+        <table>
+            <tbody>
+                    @for (var i = 0; i < 4; i++)
+                    {
+                    <tr>
+                            @for (var k = 1; k < 11; k++)
+                            {
+                                //Dependiendo del número que sea, será Oro, bastos, espadas o copas
+                                @if (i == 0)
+                                {
+                                    String carta = "/Cartas/" + k + "Oro.jpg";
+                                <td>
+                                    <img width="150" src="@carta" />
+                                </td>
+                                }
+                                else if (i == 1)
+                                {
+                                    String carta = "/Cartas/" + k + "Bastos.jpg";
+                                <td>
+                                    <img width="150" src="@carta" />
+                                </td>
+                                }
+                                else if (i == 2)
+                                {
+                                    String carta = "/Cartas/" + k + "Espadas.jpg";
+                                <td>
+                                    <img width="150" src="@carta" />
+                                </td>
+                                }
+                                else
+                                {
+                                    String carta = "/Cartas/" + k + "Copas.jpg";
+                                <td>
+                                    <img width="150" src="@carta" />
+                                </td>
+                                }
+                            }
+                    </tr>
+                    }
+            </tbody>
+        </table>
+        }
+    }
+<h3>Apartado a.</h3>
+    @{
+        //Y llamamos al método para que traiga toda la baraja de cartas
+        traerBaraja();
+    }
+<!--Apartado b.
+En este método comprobamos si contiene las palabras REY, SOTA O CABALLO
+De ser así, deberemos de poner el número de la carta a mano. Sino, directamente se pondrá el número que haya pasado el usuario-->
+    @{
+        void traerCarta(String cartaElegida)
+        {
+        <table>
+            <tbody>
+                <tr>
+                        @if (cartaElegida.Contains("REY"))
+                        {
+                            //Se splitea por '-'
+                            String[] split = cartaElegida.Split("-");
+
+                            //Pasamos a lower todo el string
+                            split[0] = split[0].ToLower();
+
+                            //Tras ello asignamos en la variable carta una secuencia donde ponemos la primera en mayúscula
+                            //Así con todas
+                            String carta = "/Cartas/10" + char.ToUpper(split[0][0]) + split[0].Substring(1) + ".jpg";
+
+                            //Para más tarde agregar la variable al src del IMG
+                        <td>
+                            <img width="150" src="@carta" />
+                        </td>
+                        }
+                        else if (cartaElegida.Contains("SOTA"))
+                        {
+                            String[] split = cartaElegida.Split("-");
+                            split[0] = split[0].ToLower();
+                            String carta = "/Cartas/8" + char.ToUpper(split[0][0]) + split[0].Substring(1) + ".jpg";
+                        <td>
+                            <img width="150" src="@carta" />
+                        </td>
+                        }
+                        else if (cartaElegida.Contains("CABALLO"))
+                        {
+                            String[] split = cartaElegida.Split("-");
+                            split[0] = split[0].ToLower();
+                            String carta = "/Cartas/9" + char.ToUpper(split[0][0]) + split[0].Substring(1) + ".jpg";
+                        <td>
+                            <img width="150" src="@carta" />
+                        </td>
+                        }
+                        else
+                        {
+                            String[] split = cartaElegida.Split("-");
+                            split[0] = split[0].ToLower();
+                            String carta = "/Cartas/" + split[1] + char.ToUpper(split[0][0]) + split[0].Substring(1) + ".jpg";
+                        <td>
+                            <img width="150" src="@carta" />
+                        </td>
+                        }
+                </tr>
+            </tbody>
+        </table>
+        }
+    }
+<h3>Apartado b.</h3>
+    @{
+        //Tras todo lo anterior imprentamos por pantalla los resultados varios
+        traerCarta("ORO-1");
+        traerCarta("BASTOS-5");
+        traerCarta("BASTOS-REY");
+        traerCarta("ESPADAS-REY");
+        traerCarta("COPAS-CABALLO");
+        traerCarta("ORO-SOTA");
+        traerCarta("ORO-REY");
+    }
+<!--Apartado c.-->
+    @{
+        void cartaAleatoria()
+        {
+            //Asignamos un número aleatorio que será el palo, entre 1 y 4. Y arporovechamos la variable inicializada más arriba
+            int paloCarta = rnd.Next(1, 4);
+            //Además, creamos otro número aleatorio comprendido entre 1 y 10, que será la carta a sacar
+            int numeroCarta = rnd.Next(1, 10);
+
+
+            //Con la aleatoriedad, vamos a inicializar una variable a la cual
+            //Dependiendo del número aleatorio que haya salido, será un palo u otro
+            String paloDeCarta;
+            if (paloCarta == 1)
+            {
+                paloDeCarta = "Oro";
+            }
+            else if (paloCarta == 2)
+            {
+                paloDeCarta = "Bastos";
+            }
+            else if (paloCarta == 3)
+            {
+                paloDeCarta = "Espadas";
+            }
+            else
+            {
+                paloDeCarta = "Copas";
+            }
+
+
+            //Tras ello, enviamos el nombre del palo y el número de la carta aleatoria.
+            traerCarta(paloDeCarta + "-" + numeroCarta);
+        }
+    }
+    <h3>Apartado c.</h3>
+    @{
+        cartaAleatoria();
+    }
+<!-- FIN CONSOLA WEB-->
+    </p>

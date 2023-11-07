@@ -1,0 +1,62 @@
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.staticwebassets.runtime.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.exe
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.deps.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.runtimeconfig.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.dll
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.pdb
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.csproj.AssemblyReference.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.AssemblyInfo.cs
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.RazorAssemblyInfo.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.RazorAssemblyInfo.cs
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.Tarea1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.Tarea1.props
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tarea1.props
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tarea1.props
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\bundle\Tarea1.styles.css
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\projectbundle\Tarea1.bundle.scp.css
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.dll
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\refint\Tarea1.dll
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.pdb
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.genruntimeconfig.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\EjemploWeb\obj\Debug\net6.0\ref\Tarea1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.staticwebassets.runtime.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\bin\Debug\net6.0\Tarea1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.RazorAssemblyInfo.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.RazorAssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.Tarea1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.Tarea1.props
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Tarea1.props
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Tarea1.props
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\bundle\Tarea1.styles.css
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\scopedcss\projectbundle\Tarea1.bundle.scp.css
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\refint\Tarea1.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\Tarea1.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea1\EjemploWeb\obj\Debug\net6.0\ref\Tarea1.dll
