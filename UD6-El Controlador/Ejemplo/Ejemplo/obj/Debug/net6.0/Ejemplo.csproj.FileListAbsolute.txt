@@ -1,0 +1,62 @@
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\appsettings.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.staticwebassets.runtime.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.exe
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.deps.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.runtimeconfig.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.dll
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.pdb
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.AssemblyReference.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfoInputs.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfo.cs
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.RazorAssemblyInfo.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.RazorAssemblyInfo.cs
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.Ejemplo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.build.Ejemplo.props
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ejemplo.props
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ejemplo.props
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\bundle\Ejemplo.styles.css
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\projectbundle\Ejemplo.bundle.scp.css
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.dll
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\refint\Ejemplo.dll
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.pdb
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.genruntimeconfig.cache
+C:\Users\MESACOCINA\Desktop\Ejemplo\Ejemplo\obj\Debug\net6.0\ref\Ejemplo.dll
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\appsettings.Development.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\appsettings.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.staticwebassets.runtime.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.exe
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.deps.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.dll
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\bin\Debug\net6.0\Ejemplo.pdb
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.AssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.RazorAssemblyInfo.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.RazorAssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.Ejemplo.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.build.Ejemplo.props
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ejemplo.props
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ejemplo.props
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.build.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\staticwebassets.development.json
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\bundle\Ejemplo.styles.css
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\scopedcss\projectbundle\Ejemplo.bundle.scp.css
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.dll
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\refint\Ejemplo.dll
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.pdb
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\Ejemplo.genruntimeconfig.cache
+G:\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Temario\C#\Tema06-El Controlador\Ejemplo\Ejemplo\obj\Debug\net6.0\ref\Ejemplo.dll

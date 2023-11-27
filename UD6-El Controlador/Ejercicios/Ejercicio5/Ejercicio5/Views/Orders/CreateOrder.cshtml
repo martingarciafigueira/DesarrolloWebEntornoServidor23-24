@@ -1,0 +1,19 @@
+﻿@model Order
+
+<h2>Crear nuevo pedido</h2>
+
+<form method="post" asp-action="OrderDetails">
+    <label for="CustomerName">Nombre del cliente:</label>
+    <input type="text" id="CustomerName" name="CustomerName">
+
+    <label for="CustomerAddress">Dirección del cliente:</label>
+    <input type="text" id="CustomerAddress" name="CustomerAddress">
+
+    <label for="OrderDetails">Detalles del pedido:</label>
+    <input type="text" id="OrderDetails" name="OrderDetails">
+
+    <label for="PaymentMethod">Método de pago:</label>
+    <input type="text" id="PaymentMethod" name="PaymentMethod">
+
+    <button type="submit">Enviar pedido</button>
+</form>

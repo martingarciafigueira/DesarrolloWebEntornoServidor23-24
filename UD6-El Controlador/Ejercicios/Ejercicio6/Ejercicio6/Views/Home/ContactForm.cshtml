@@ -1,0 +1,16 @@
+﻿@model ContactForm
+
+<h2>Contacto</h2>
+
+<form method="post" asp-action="Contact">
+    <label for="Name">Nombre:</label>
+    <input type="text" id="Name" name="Name">
+
+    <label for="Email">Correo electrónico:</label>
+    <input type="email" id="Email" name="Email">
+
+    <label for="Message">Mensaje:</label>
+    <textarea id="Message" name="Message"></textarea>
+
+    <button type="submit">Enviar mensaje</button>
+</form>

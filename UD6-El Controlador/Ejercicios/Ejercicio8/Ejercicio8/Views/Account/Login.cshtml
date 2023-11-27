@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Iniciar sesión</title>
+</head>
+<body>
+    <h2>Iniciar sesión</h2>
+
+    <form method="post" asp-action="Login">
+        <label for="Username">Nombre de usuario:</label>
+        <input type="text" id="Username" name="Username">
+
+        <button type="submit">Iniciar sesión</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxBJabQNDbQN9PsueDSDb6cY7FUsafqavri1LSZR5RA4QZRxqtQpDm+LXh+h5SQGbhl0qcXbDK4iRrormDtSGw==",
+  "success": true,
+  "projectFilePath": "G:\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\Tema06-El Controlador\\Ejemplo\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
