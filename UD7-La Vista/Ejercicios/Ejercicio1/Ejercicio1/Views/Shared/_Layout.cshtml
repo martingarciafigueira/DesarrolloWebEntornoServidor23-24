@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ejercicio 1</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div>
+        <ul>
+            <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+            <li>@Html.ActionLink("Productos", "Index", "Producto")</li>
+            <!-- Agrega otros enlaces de navegación según tus necesidades -->
+        </ul>
+    </div>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

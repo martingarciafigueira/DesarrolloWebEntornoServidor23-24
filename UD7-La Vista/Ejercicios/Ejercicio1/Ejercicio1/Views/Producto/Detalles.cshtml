@@ -1,0 +1,23 @@
+﻿@model Ejercicio1.Models.Producto
+
+@{
+    ViewData["Title"] = "Detalles del Producto";
+    Layout = "_Layout";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <label>ID:</label>
+    <span>@Model.Id</span>
+</div>
+
+<div>
+    <label>Nombre:</label>
+    <span>@Model.Nombre</span>
+</div>
+
+<div>
+    <label>Precio:</label>
+    <span>@Model.Precio</span>
+</div>

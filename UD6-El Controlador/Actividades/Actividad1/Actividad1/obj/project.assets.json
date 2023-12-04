@@ -9062,11 +9062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\Tema06-El Controlador\\Actividades\\Actividad1\\Actividad1\\Actividad1.csproj",
+      "projectUniqueName": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\Actividad1\\Actividad1\\Actividad1.csproj",
       "projectName": "Actividad1",
-      "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\Tema06-El Controlador\\Actividades\\Actividad1\\Actividad1\\Actividad1.csproj",
+      "projectPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\Actividad1\\Actividad1\\Actividad1.csproj",
       "packagesPath": "C:\\Users\\MARTIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\Tema06-El Controlador\\Actividades\\Actividad1\\Actividad1\\obj\\",
+      "outputPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\Montecastelo\\DAW\\2º DAW\\DWES\\Temario\\C#\\UD6-El Controlador\\Actividades\\Actividad1\\Actividad1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9081,6 +9081,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9123,7 +9124,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

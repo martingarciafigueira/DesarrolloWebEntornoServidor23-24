@@ -1,0 +1,25 @@
+﻿@model Ejercicio1.Models.Producto
+
+@{
+    ViewData["Title"] = "Editar Producto";
+    Layout = "_Layout";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@using (Html.BeginForm("Actualizar", "Producto"))
+{
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Nombre:</label>
+        @Html.TextBoxFor(model => model.Nombre)
+    </div>
+
+    <div>
+        <label>Precio:</label>
+        @Html.TextBoxFor(model => model.Precio)
+    </div>
+
+    <button type="submit">Actualizar</button>
+}
