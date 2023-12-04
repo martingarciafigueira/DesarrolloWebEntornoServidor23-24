@@ -1,0 +1,22 @@
+﻿
+@{
+  ViewData["Title"] = "Login";
+  Layout = "~/Views/Layouts/_General.cshtml";
+}
+
+@{
+  
+<div class="m-0 p-0 d-flex flex-column justify-content-center align-items-center vh-100 v-100">
+  <h3>Iniciar sesión</h3>
+    <form asp-controler="Login" asp-action="Logueate" class="p-3 border needs-validation">
+      <label name="username" class="form-label">Nombre de usuario</label>
+      <input type="text" name="username" class="form-control" placeholder="Ingresa tu usuario" required value="@ViewBag.username"/>
+      <lable name="password" class="form-label">Contraseña</lable>
+      <input type="password" name="password" class="form-control" placeholder="Ingresa tu contraseña" required />
+      <p>@ViewBag.message</p>
+      <div class="text-center">
+        <button type="submit" class="bg-primary text-light border-0 mt-3">Iniciar Sesión</button>
+      </div>
+    </form>
+</div>
+}

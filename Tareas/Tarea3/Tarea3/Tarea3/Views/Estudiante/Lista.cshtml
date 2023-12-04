@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Tarea3.Models.Estudiante>;
+
+@{
+  ViewData["Title"] = "Estudiante";
+}
+
+<table style="width: 100%;">
+  <thead style="border-bottom: 1px solid black;">
+    <th>ID</th>
+    <th>Nombre</th>
+    <th>Detalles</th>
+  </thead>
+  <tbody>
+    @foreach(var estudiante in Model) {
+      <tr style="border-top: 0.5px solid #dee2e6;">
+        <td style="padding: 8px 0;">@estudiante.Id</td>
+        <td style="padding: 8px 0;">@estudiante.Nombre</td>
+        <td style="padding: 8px 0;">
+          <a asp-action="Detalles" asp-route-id="@estudiante.Id">Detalles</a>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>

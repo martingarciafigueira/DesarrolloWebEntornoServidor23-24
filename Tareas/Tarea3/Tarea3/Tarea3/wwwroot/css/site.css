@@ -1,0 +1,89 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.container{
+    width:90%;
+    background:whitesmoke;
+    padding-top:1px;
+
+}
+h1 {
+    font-weight: bold;
+    color: #7E7E7E;
+    font-size: 4em;
+    font-family: monospace;
+}
+p {
+    font-family: monospace;
+    color: #393939;
+}
+
+#cv_header {
+    margin-top: 2em;
+    background: #59D8C7;
+    padding: 1em;
+    border:1px solid #393939;
+}
+
+.name{
+    color:whitesmoke;
+}
+
+#personal_img {
+    width: 13em;
+    border-radius: 50%;
+    border: 3px solid #393939;
+}
+
+.about {
+    margin-top: 2em;
+    padding:1em;
+    background-color: white;
+}
+
+#cv_body {
+    margin-top: 2em;
+    background-color: white;
+    padding: 1em;
+}
+
+.nav-tabs .nav-link {
+    color: #7E7E7E;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: #59D8C7 !important;
+}
+
+#cv_tec {
+    margin-top: 2em;
+    background-color: white;
+    padding: 1em;
+}
+
+.tec-tittle {
+    color: #59D8C7;
+    font-size:2em;
+    font-weight:bold;
+}
+
+#tec_img{
+    height:9em;
+}

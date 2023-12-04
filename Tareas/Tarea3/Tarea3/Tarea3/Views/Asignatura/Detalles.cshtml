@@ -1,0 +1,25 @@
+﻿@model Tarea3.Models.Asignatura;
+
+@{
+  ViewData["Title"] = "Detalles Asignatura";
+  Layout = "~/Views/Layouts/_General.cshtml";
+}
+
+<div class="container">
+  <h2>Detalles de la Asignatura</h2>
+    <h3 class="p-2 text-light bg-primary navbar-brand">@Model.Nombre</h3>
+  <div class="container row h-25 w-100">
+    <img class="col image-detalles" src="~/images/logo-montecastelo.png" />
+    <p class="col">
+      @Model.Descripcion 
+    </p>
+  </div>
+  <div class="text-center text-light bg-secondary py-2">
+    ¡Aprende todo sobre esta asignatura!
+  </div>
+  <div class="text-center bg-primary py-1">
+    <a class="text-light" asp-controller="Asignatura" asp-action="Lista">Volver</a>
+  </div>
+  <footer>
+  </footer>
+</div>

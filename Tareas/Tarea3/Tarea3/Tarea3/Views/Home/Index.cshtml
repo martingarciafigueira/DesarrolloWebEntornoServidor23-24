@@ -1,0 +1,21 @@
+﻿@{
+  ViewData["Title"] = "Home Page";
+}
+
+<div class="w-100 d-flex justify-content-center">
+  <div>
+    <h1 class="display-4">Bienvenido al Instituto Montecastelo</h1>
+    <h2>Selecciona una opción</h2>
+    <ul>
+      <li>
+        <a asp-controller="Asignatura" asp-action="Lista">Asignaturas</a>
+      </li>
+      <li>
+        <a asp-controller="Estudiante" asp-action="Lista">Estudiantes</a>
+      </li>
+      <li>
+        <a asp-controller="Profesor" asp-action="Lista">Profesores</a>
+      </li>
+    </ul>
+  </div>
+</div>
