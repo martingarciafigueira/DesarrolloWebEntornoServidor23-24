@@ -1,0 +1,61 @@
+﻿@model CentroPokemon.Models.DetallePokemonViewModel
+
+<h1 class="text-center">Detalles del Pokémon</h1>
+
+<div class="octa-form-detalles" style="margin:auto;">
+    <div class="octa-form-inside-detalles">
+        <h2 class="text-center">@Model.Pokemon.nombre</h2>
+        <div class="detalles-pokemon-img"><img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{@Model.Pokemon.PokemonId:D3}.png")">
+        <p>Peso: @Model.Pokemon.peso</p>
+        <p>Altura: @Model.Pokemon.altura</p>
+        </div>
+    </div>
+    <div class="octa-form-detalles">
+        <div class="octa-form-inside-detalles">
+            <div class="row">
+                <div class="col">
+                    <h3>Involuciones:</h3>
+                    <ul>
+                        @foreach (var involucion in Model.Involuciones)
+                        {
+                            <li>@involucion.nombre</li>
+                            <img class="detalles-pokemon-img-mini" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{involucion.PokemonId:D3}.png")">
+                        }
+                    </ul>
+                </div>
+                <div class="col">
+                    <h3>Evoluciones:</h3>
+                    <ul>
+                        @foreach (var evolucion in Model.Evoluciones)
+                        {
+                            <li>@evolucion.nombre</li>
+                            <img class="detalles-pokemon-img-mini" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{evolucion.PokemonId:D3}.png")">
+                        }
+                    </ul>
+                </div>  
+            </div>
+        </div>
+        <div class="octa-form-detalles" id="moves_detalles">
+            <div class="octa-form-inside-detalles" >
+                <h3 class="text-center">Movimientos:</h3>
+                <table style="margin:auto;">
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Potencia</th>
+                        <th>Precisión</th>
+                    </tr>
+                    @foreach (var movimiento in Model.Movimientos)
+                    {
+                        <tr>
+                            <td>@movimiento.nombre</td>
+                            <td>@movimiento.potencia</td>
+                            <td>@movimiento.precision_mov</td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CentroPokemon
+build_property.RootNamespace = CentroPokemon
+build_property.ProjectDir = C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea4\CentroPokemon\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW\2º DAW\DWES\Tareas\Curso 23-24\Soluciones\Tarea4\CentroPokemon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Combate/Combate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tYmF0ZVxDb21iYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/GenerarEquipo/GenerarEquipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhckVxdWlwb1xHZW5lcmFyRXF1aXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/MiEquipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlFcXVpcG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Pokemon/DetallePokemon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxEZXRhbGxlUG9rZW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Pokemon/Lista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxMaXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MARTIN/Dropbox/Clases/Montecastelo/DAW/2º DAW/DWES/Tareas/Curso 23-24/Soluciones/Tarea4/CentroPokemon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fn1a6ozf0o

@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="section-links">
+    <div class="container">
+        <img id="centro_pokemon_img" src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pokémon_logo.svg" />
+        <div class="grid-container" id="index_container">
+            <div class="grid-item">
+                <div class="octa-form">
+                    <div class="octa-form-inside" style="display: flex; justify-content: center; overflow: hidden;">
+                        <img src="https://imagenes.elpais.com/resizer/h0CvWrV8jJaUp1S6cv2TKklI0CQ=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/SMAGZKMKUVK5UPZUPANHV4TYBA.jpg" />
+                    </div>
+                </div>
+                <a class="home-menu-a" href="@Url.Action("Lista", "Pokemon")">Lista de Pokémon</a>
+            </div>
+            <div class="grid-item">
+                <div class="octa-form">
+                    <div class="octa-form-inside" style="display: flex; justify-content: center; overflow: hidden;">
+                        <img src="https://static.posters.cz/image/1300/posters/pokemon-eevee-i32673.jpg" />
+                    </div>
+                </div>
+                <a class="home-menu-a" href="@Url.Action("GenerarEquipo", "Pokemon")">Generación de equipo aleatorio</a>
+            </div>
+            <div class="grid-item">
+                <div class="octa-form">
+                    <div class="octa-form-inside" style="display: flex; justify-content: center; overflow: hidden;">
+                        <img src="https://i.pinimg.com/564x/e1/07/7a/e1077a7c10ba1f0665d0073c23e6f8ba.jpg" />
+                    </div>
+                </div>
+                <a class="home-menu-a"  href="@Url.Action("Index", "MiEquipo")">Mi equipo</a>
+            </div>
+            <div class="grid-item">
+                <div class="octa-form">
+                    <div class="octa-form-inside" style="display: flex; justify-content: center; overflow: hidden;">
+                        <img src="https://w0.peakpx.com/wallpaper/840/988/HD-wallpaper-pokemon-pokemon-sword-and-shield-marnie-pokemon.jpg" />
+                    </div>
+                </div>
+                <a class="home-menu-a"  href="@Url.Action("Combate", "Pokemon")">Combate</a>
+            </div>
+        </div>
+        <div class="sub-tittle">
+            <p>Un centro Pokémon (Pokémon Center en inglés, ポケモンセンター en japonés) es una edificación o lugar donde se cura o sana a los Pokémon heridos, y un lugar donde los entrenadores pueden descansar y reponerse de su viaje Pokémon.</p>
+        </div>
+    </div>
+</div>

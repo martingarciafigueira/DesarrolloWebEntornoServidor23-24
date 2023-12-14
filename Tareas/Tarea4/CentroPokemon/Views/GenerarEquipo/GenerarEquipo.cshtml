@@ -1,0 +1,78 @@
+﻿@model List<CentroPokemon.Models.Pokemon>
+
+@using CentroPokemon.Models
+@using CentroPokemon.Data
+
+@{
+    ViewData["Title"] = "Generar Equipo";
+}
+
+<h1 class="text-center mb-5">Equipo Aleatorio</h1>
+
+@if (Model.Count == 0)
+{
+    <p>No se ha generado un equipo aleatorio aún.</p>
+}
+else
+{
+    <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+    <div class="octa-form-inside-random-equipo">
+    
+    <ul style="display:flex">
+        @foreach (var pokemon in Model)
+        {
+            <li style="list-style-type: none;">
+                <a class="aleatorio-menu-a" href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })">@pokemon.nombre</a>
+                <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                        <a href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })" class="btn btn-primary" id="btn_primary">Ver Detalles</a>
+            </li>
+        }
+    </ul>
+        </div>
+    </div>
+    <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+        <div class="octa-form-inside-random-equipo" style="display:flex">
+    <h3 style="color:whitesmoke; border-right:2px solid black; margin-right:1em;" >Resumen del Equipo</h3>
+            <p style ="color:whitesmoke;">Cantidad de Pokémon: @Model.Count</p>
+            <p style="color:whitesmoke;">Tipo de Pokémon predominante:</p>
+            <p style="color:whitesmoke;">Peso medio del equipo: @GetPesoMedio(Model) kg</p>
+            <p style="color:whitesmoke;">Altura media del equipo: @GetAlturaMedia(Model) m</p>
+        </div>
+    </div>
+}
+
+<div style="display:flex;" class="justify-content-around mt-2">
+    <a href="@Url.Action("GenerarEquipo", "Pokemon")" class="btn btn-primary" id="btn_my_team">Generar Equipo Aleatorio</a>
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary" id="btn_my_team">Volver</a>
+</div>
+
+@functions
+{
+    private double GetPesoMedio(List<CentroPokemon.Models.Pokemon> equipo)
+    {
+        if (equipo.Count == 0)
+        {
+            return 0;
+        }
+
+        double sumaPesos = equipo.Sum(pokemon => pokemon.peso);
+
+        double pesoMedio = sumaPesos / equipo.Count;
+
+        return pesoMedio;
+    }
+
+    private double GetAlturaMedia(List<Pokemon> equipo)
+    {
+        if (equipo.Count == 0)
+        {
+            return 0;
+        }
+
+        double sumaAlturas = equipo.Sum(pokemon => pokemon.altura);
+
+        double alturaMedia = sumaAlturas / equipo.Count;
+
+        return alturaMedia;
+    }
+}

@@ -1,0 +1,155 @@
+﻿@model List<CentroPokemon.Models.Pokemon>
+
+@using CentroPokemon.Models
+@using CentroPokemon.Data
+
+<h1 class="text-center mb-5">Combate</h1>
+<div class="octa-form-battle-button mb-2">
+<div class="octa-form-inside-battle-button d-flex justify-content-center" id="my_team_button">
+<h3 class="text-center"  style="justify-content:center; color:#D03056; display:flex;">Contra Mi Equipo</h3>
+</div>
+</div>
+<div class="octa-form-battle mt-5 mb-5 d-none" style="margin:auto;" id="my_team_battlel">
+    <div class="octa-form-inside-battle">
+        <div class="row">
+            <div class="col">
+                <h5 class="text-center">Equipo Aleatorio</h5>
+                <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+                    <div class="octa-form-inside-random-equipo">
+                        <ul style="display:flex">
+                            @foreach (var pokemon in ViewBag.EquipoAleatorioA)
+                            {
+                                <li style="list-style-type: none;">
+                                    <a class="aleatorio-menu-a" href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })">@pokemon.nombre</a>
+                                    <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                                    <p style="display:none;">@pokemon.PokemonId</p>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h5 class="text-center  mt-5">Tu Equipo</h5>
+                <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+                    <div class="octa-form-inside-random-equipo">
+                        <ul style="display:flex">
+                            @if (ViewBag.MiEquipo != null)
+                            {
+                                foreach (var pokemon in ViewBag.MiEquipo)
+                                {
+                                    <li style="list-style-type: none;">
+                                        <a class="aleatorio-menu-a" href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })">@pokemon.nombre</a>
+                                        <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                                        <p style="display:none;">@pokemon.PokemonId</p>
+                                    </li>
+                                }
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<p class="text-center mt-2" style="color:whitesmoke; font-size:1.5em;">@DeterminarGanadorMiEquipo(ViewBag.EquipoAleatorioA, ViewBag.MiEquipo)</p>
+</div>
+
+<div class="octa-form-battle-button mb-2">
+<div class="octa-form-inside-battle-button d-flex justify-content-center" id="random_team_button">
+    <h3 class="text-center" style="justify-content:center; color:#D03056; display:flex;">Entre Equipos Aleatorios</h3>
+</div>
+</div>
+<div class="octa-form-battle mt-5 d-none" style="margin:auto;" id="random_team_battlel">
+    <div class="octa-form-inside-battle">
+        <div class="row">
+            <div class="col">
+                <h5 class="text-center">Equipo Aleatorio A</h5>
+                <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+                    <div class="octa-form-inside-random-equipo">
+                        <ul style="display:flex">
+                            @foreach (var pokemon in ViewBag.EquipoAleatorioB)
+                            {
+                                <li style="list-style-type: none;">
+                                    <a class="aleatorio-menu-a" href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })">@pokemon.nombre</a>
+                                    <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                                    <p style="display:none;">@pokemon.PokemonId</p>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <h5 class="text-center mt-5">Equipo Aleatorio B</h5>
+                <div class="octa-form-random-equipo mt-5" style="margin:auto;">
+                    <div class="octa-form-inside-random-equipo">
+                        <ul style="display:flex">
+                            @foreach (var pokemon in ViewBag.EquipoAleatorioC)
+                            {
+                                <li style="list-style-type: none;">
+                                    <a class="aleatorio-menu-a" href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })">@pokemon.nombre</a>
+                                    <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                                    <p style="display:none;">@pokemon.PokemonId</p>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p class="text-center mt-2" style="color:whitesmoke; font-size:1.5em;">@DeterminarGanadorAleaorio(ViewBag.EquipoAleatorioB, ViewBag.EquipoAleatorioC)</p>
+</div>
+
+<div style="display:flex;" class="justify-content-around mt-2">
+    <a href="@Url.Action("Index", "Home")" class="btn btn-primary" id="btn_my_team">Volver</a>
+</div>
+
+@functions
+{
+    public string DeterminarGanadorMiEquipo(List<Pokemon> equipoAleatorioA, List<Pokemon> miEquipo)
+    {
+        if (equipoAleatorioA == null || miEquipo == null)
+        {
+            return "¡Falta tu equipo!";
+        }
+
+        int sumaEquipoAleatorio = equipoAleatorioA.Sum(p => p.PokemonId);
+        int sumaMiEquipo = miEquipo.Sum(p => p.PokemonId);
+
+        if (sumaEquipoAleatorio > sumaMiEquipo)
+        {
+            return "El ganador es el Equipo Aleatorio";
+        }
+        else if (sumaMiEquipo > sumaEquipoAleatorio)
+        {
+            return "El ganador es Tu Equipo";
+        }
+        else
+        {
+            return "Es un empate";
+        }
+    }
+    public string DeterminarGanadorAleaorio(List<Pokemon> equipoAleatorioB, List<Pokemon> equipoAleatorioC)
+    {
+        int sumaEquipoAleatorioB = equipoAleatorioB.Sum(p => p.PokemonId);
+        int sumaEquipoAleatorioC = equipoAleatorioC.Sum(p => p.PokemonId);
+
+        if (sumaEquipoAleatorioB > sumaEquipoAleatorioC)
+        {
+            return "Gana el equipo A";
+        }
+        else if (sumaEquipoAleatorioC > sumaEquipoAleatorioB)
+        {
+            return "Gana el equipo B";
+        }
+        else
+        {
+            return "Es un empate";
+        }
+    }
+}
+
+
+
+

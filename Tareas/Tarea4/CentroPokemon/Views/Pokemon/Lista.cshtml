@@ -1,0 +1,70 @@
+﻿@model List<CentroPokemon.Models.Pokemon>
+
+@using (Html.BeginForm("Lista", "Pokemon", FormMethod.Get))
+{
+    <header class="list-pokemon-header">
+    <h1>Lista de Pokemons</h1>
+    <img src="https://images.wikidexcdn.net/mwuploads/wikidex/5/51/latest/20100906033636/Pokédex_RAAm.png" />
+    </header>
+
+    <select name="typeSelected">
+        <option value="">Todos los pokemons</option>
+        @foreach (var tipo in ViewBag.TipoList)
+        {
+            <option value="@tipo.nombre">@tipo.nombre</option>
+        }
+    </select>
+    <select name="weightSelected">
+        <option value="">Todos los pesos</option>
+        @foreach (var pokemon in ViewBag.PokemonList)
+        {
+            <option value="@pokemon.peso">@pokemon.peso</option>
+        }
+    </select>
+    <select name="heightSelected">
+        <option value="">Todas las alturas</option>
+        @foreach (var pokemon in ViewBag.PokemonList)
+        {
+            <option value="@pokemon.altura">@pokemon.altura</option>
+        }
+    </select>
+    <input type="submit" value="Filtrar" />
+
+    <table class="pokemon-list-table">
+        <thead>
+            <tr>
+                <th class="text-center">Número Pokédex</th>
+                <th></th>
+                <th>Nombre</th>
+                <th>Peso</th>
+                <th>Altura</th>
+                <th class="text-center">Detalles</th>
+                <th class="text-center">Agregar a mi Equipo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pokemon in ViewBag.PokemonFilteredList)
+            {
+                <tr>
+                    <td class="text-center" style="font-size:1.5em;">@pokemon.PokemonId</td>
+                    <td>
+                        <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                    </td>
+                    <td>@pokemon.nombre</td>
+                    <td>@pokemon.peso</td>
+                    <td>@pokemon.altura</td>
+                    <td class="text-center">
+                        <a href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })" class="btn btn-primary" id="btn_primary">Ver Detalles</a>
+                    </td>
+                    <td class="text-center">
+                        <form action="@Url.Action("AgregarPokemon", "MiEquipo")" method="post">
+                            <input type="hidden" name="pokemonId" value="@pokemon.PokemonId" />
+                            <button type="submit" id="btn_my_team">Agregar a Mi Equipo</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}

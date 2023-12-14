@@ -1,0 +1,265 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 40em;
+    margin: auto;
+    height: 100%;
+    justify-content: center;
+    gap:0.5em
+}
+.section-links {
+    background: #D03056;
+    border: 2px solid black;
+    height: 75em;
+}
+
+#centro_pokemon_img {
+    margin: auto;
+    display: flex;
+    height: 22em;
+    margin-bottom: 3em;
+}
+
+.grid-item {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.octa-form {
+    padding: 2px;
+    width: 13em;
+    height: 13em;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.home-menu-a {
+    padding-left: 0.5em;
+    text-decoration: none;
+    font-size: 1.2em;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+.home-menu-a:hover {
+    color:black
+}
+
+.sub-tittle {
+    display: flex;
+    margin: auto;
+    width: 36em;
+    margin-top: 11em;
+    font-size: 1.5em;
+    color: black;
+    background: white;
+    padding:1em;
+    border:2px solid black;
+}
+
+/*Style to pokemon_list*/
+
+.pokemon-list-table {
+    background: #D03056;
+    border: 2px solid black;
+    width: 100%;
+}
+
+.list-pokemon-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 1em;
+    background: rgba(208,48,86,1);
+}
+
+.list-pokemon-img{
+    height:5em
+}
+
+#btn_primary {
+    background: #c884db;
+    border: 1px solid black;
+    color: black;
+    opacity: 0.6
+}
+
+#btn_primary:hover{
+    color:whitesmoke;
+    opacity:1;
+}
+
+#btn_my_team {
+    background: #34E0FB;
+    border: 1px solid black;
+    color: black;
+    opacity: 0.6
+}
+
+#btn_my_team:hover {
+    opacity: 1;
+}
+
+/*Styles to details*/
+
+.octa-form-detalles {
+    padding: 2px;
+    width: fit-content;
+    height: fit-content;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside-detalles {
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+    background-color: #D03056;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.detalles-pokemon-img {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.detalles-pokemon-img img{
+    height:15em;
+}
+
+.detalles-pokemon-img-mini{
+    height:10em;
+}
+#moves_detalles{
+    width:100% !important;
+}
+
+/*Styles to mi team*/
+.octa-form-equipo {
+    padding: 2px;
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside-equipo {
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+    background-color: #D03056;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.td_team{
+    border-color:black;
+    vertical-align:middle;
+}
+
+/*Styles to Random_team*/
+
+.aleatorio-menu-a {
+    padding-left: 0.5em;
+    text-decoration: none;
+    font-size: 1.2em;
+    color: black;
+    font-weight: 600;
+}
+
+.octa-form-random-equipo {
+    padding: 2px;
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside-random-equipo {
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+    background-color: #D03056;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+/*Styles to Battle*/
+
+.octa-form-battle {
+    padding: 2px;
+    width: 100%;
+    height: fit-content;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside-battle {
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+    background-color: #ffceda;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-battle-button {
+    padding: 1px;
+    width: fit-content;
+    display:flex;
+    margin:auto;
+    height: fit-content;
+    background-color: black;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}
+
+.octa-form-inside-battle-button {
+    cursor:pointer;
+    height: fit-content;
+    width: 30em;
+    padding: 2em;
+    display:flex;
+    margin:auto;
+    background-color: #ffceda;
+    position: relative;
+    clip-path: polygon( 1.5625em 0, calc(100% - 1.5625em) 0, 100% 1.5625em, 100% calc(100% - 1.5625em), calc(100% - 1.5625em) 100%, 1.5625em 100%, 0 calc(100% - 1.5625em), 0 1.5625em );
+}

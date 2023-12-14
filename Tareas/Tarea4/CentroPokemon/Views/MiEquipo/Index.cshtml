@@ -1,0 +1,53 @@
+﻿@model List<CentroPokemon.Models.Pokemon>
+
+<h1 class="text-center mb-5">Mi Equipo</h1>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-warning" role="alert">
+        @TempData["Mensaje"]
+    </div>
+}
+
+@if (Model.Count == 0)
+{
+    <p>No hay Pokémon en tu equipo.</p>
+}
+else
+{<div class="octa-form-equipo" style="margin:auto;">
+    <div class="octa-form-inside-equipo">
+        <table class="table">
+            <thead>
+                <tr>
+                        <th class="text-center">Número Pokédex</th>
+                    <th></th>
+                    <th>Nombre</th>
+                    <th>Peso</th>
+                    <th>Altura</th>
+                        <th class="text-center ">Detalles</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var pokemon in Model)
+                {
+                    <tr>
+                            <td class="td_team text-center" style="font-size:1.5em;">@pokemon.PokemonId</td>
+                            <td class="td_team">
+                            <img class="list-pokemon-img" src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/@($"{pokemon.PokemonId:D3}.png")">
+                        </td>
+                            <td class="td_team">@pokemon.nombre</td>
+                            <td class="td_team">@pokemon.peso</td>
+                            <td class="td_team">@pokemon.altura</td>
+                            <td class="text-center td_team">
+                            <a href="@Url.Action("Detalle", "Pokemon", new { id = pokemon.PokemonId })" class="btn btn-primary" id="btn_primary">Ver Detalles</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+}
+<div class="text-center mt-5">
+<a href="@Url.Action("Lista", "Pokemon")" class="btn btn-primary" id="btn_my_team">Volver a la Lista de Pokémon</a>
+</div>
